@@ -6,7 +6,8 @@ Bu kod Türkiye'deki kadın cinayetlerini incelemeyi ve sayılara kolayca ulaş�
 
 ## Run the code
 
+In a virtual environment, run
 ```
-pip install -r requirements
+pip install -r requirements.txt
 python scrape.py
 ```
